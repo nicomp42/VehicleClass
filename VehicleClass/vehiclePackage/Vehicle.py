@@ -4,7 +4,7 @@
 
 class Vehicle(object):
     """
-    Model a vehicle for sale by a retail operation.
+    Model a vehicle for sale by a retail operation. This is a very incomplete model.
     """
     def __init__(self, type):
         """
